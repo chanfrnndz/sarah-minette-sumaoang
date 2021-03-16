@@ -44,7 +44,7 @@ h3 {
     font-size: 15px;
 }
 
-h1, h2, h3, p, li {
+h1, h2, h3, p, li, a, a:hover {
     font-style: normal;
     color: rgb(85, 85, 85);
     text-decoration: none;
@@ -59,6 +59,10 @@ img {
 
 .bot {
     margin-top: 100px;
+}
+
+a, a:hover {
+    text-decoration: none
 }
 
 
